@@ -1,0 +1,11 @@
+G:\CadastroSenhas\GuardaSenhas\bin\Debug\GuardaSenhas.exe.config
+G:\CadastroSenhas\GuardaSenhas\bin\Debug\GuardaSenhas.exe
+G:\CadastroSenhas\GuardaSenhas\bin\Debug\GuardaSenhas.pdb
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\CadastroSenhas.csprojResolveAssemblyReference.cache
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\GuardaSenhas.frmCriptografado.resources
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\GuardaSenhas.frmCadastroSenhas.resources
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\GuardaSenhas.Properties.Resources.resources
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\CadastroSenhas.csproj.GenerateResource.cache
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\CadastroSenhas.csproj.CoreCompileInputs.cache
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\GuardaSenhas.exe
+G:\CadastroSenhas\GuardaSenhas\obj\Debug\GuardaSenhas.pdb
